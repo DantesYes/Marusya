@@ -1097,6 +1097,7 @@ body.lock {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow-y: scroll;
 
     &__shadow {
         position: absolute;

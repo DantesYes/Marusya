@@ -9,14 +9,14 @@
     "build": "gulp build --build",
     "zip": "gulp deployZIP --build",
     "deployFTP": "gulp deployFTP --build",
-    "svgSprive": "gulp svgSprive",
-    "deploy": "gh-pages -d dist -r https://github.com/DantesYes/WayGood.git",
+    "svgSprive": "gulp svgSprive", 
+    "deploy": "gh-pages -d dist -r https://github.com/DantesYes/Marusya.git",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,json,html,css,md,yaml,yml}\"",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DantesYes/WayGood.git"
+    "url": "git+https://github.com/DantesYes/Marusya.git"
   },
   "keywords": [
     "gulp",
@@ -29,9 +29,9 @@
   "author": "Alexsander",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DantesYes/WayGood/issues"
+    "url": "https://github.com/DantesYes/Marusya/issues"
   }, 
-  "homepage": "https://github.com/DantesYes/WayGood",
+  "homepage": "https://github.com/DantesYes/Marusya",
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@babel/polyfill": "^7.12.1",
