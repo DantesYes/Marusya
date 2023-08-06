@@ -1,1 +1,12 @@
-# WayGood
+# Marusya(landing page)
+-html
+
+-css
+
+-js
+
+-BEM
+
+-gulp
+
+-wordpress
